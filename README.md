@@ -28,11 +28,11 @@ Key findings from the experiments:
 - Python 3.8+
 - PyTorch 1.13+
 - Hugging Face Transformers
-- Other dependencies listed in `requirements.txt`.
 
 ### Installation
 
 1. Clone this repository:
    ```bash
    git clone https://github.com/shreeman1000/DLNLP_term_paper.git
-   cd DLNLP_term_paper
+   cd Efficient_fine_tuning_LLMs
+
